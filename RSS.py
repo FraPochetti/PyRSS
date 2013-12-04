@@ -81,7 +81,6 @@ class Trigger(object):
         """
         raise NotImplementedError
 
-# Whole Word Triggers
 # Problems 2-5
 
 # TODO: WordTrigger
